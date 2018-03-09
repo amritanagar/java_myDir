@@ -145,7 +145,7 @@ public class JavaProblemSolver1 {
 		LkList.add("Amrita");*/
 		
 		
-		
+		System.out.println("ok!");
 		
 
 	}
